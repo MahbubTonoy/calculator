@@ -1,0 +1,57 @@
+body{
+    background-image:url(/images/bg3.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+
+
+.dynamic {
+	background-color: #0808086b;
+	border-radius: 5px;
+	width: 320px;
+	height: 600px;
+	margin: 0 auto;
+	margin-top: 30px;
+	align-items: center;
+}
+span{
+    width: 290px;
+	height: 40px;
+	margin: 15px;
+	float: left;
+	color: #000000;
+	border-width: 0;
+    background: #758f99;
+}
+.name{
+text-align: center;
+color: #fff;
+font-size: 30px;
+padding-top: 20px;
+}
+   .number{
+  width: 50px;
+  height: 50px;
+  margin: 15px;
+  float: left;
+  border-radius: 50%;
+  border-width: 0;
+ 
+}
+.oparetor{
+    width: 50px;
+  height: 50px;
+  margin: 15px;
+  float: left;
+  border-radius: 50%;
+  border-width: 0;
+}
+.result {
+	width: 295px;
+	height: 50px;
+	margin: 15px;
+	float: left;
+	border-radius: 0;
+	border-width: 0;
+}
