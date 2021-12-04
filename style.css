@@ -1,16 +1,21 @@
 body{
-    background:url(..//images/bg3.jpg);
-    background-repeat:no-repeat;
-    background-size:cover;
+   background: #003E50;
 
 }
-
+.back {
+	background: url(./images/bg3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 80%;
+	height: 80%;
+	margin-left: 130px;
+}
 
 .dynamic {
 	background-color: #0808086b;
 	border-radius: 5px;
 	width: 320px;
-	height: 600px;
+	height: 602px;
 	margin: 0 auto;
 	margin-top: 30px;
 	align-items: center;
